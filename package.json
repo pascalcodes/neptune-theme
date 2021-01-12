@@ -1,0 +1,21 @@
+{
+    "name": "neptune-theme",
+    "displayName": "Neptune Theme",
+    "description": "Theme for Visual Studio Code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Neptune Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Neptune Theme-color-theme.json"
+            }
+        ]
+    }
+}
