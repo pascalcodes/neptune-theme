@@ -1,2 +1,8 @@
 Useful Links
     Theme Color Reference: https://code.visualstudio.com/api/references/theme-color
+
+
+Custom Settings
+    Editor:Render Line Highlight = None
+    Editor > Minimap: False
+    Editor > Breadcrumbs: False
