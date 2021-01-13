@@ -1,6 +1,18 @@
+<p align="center">
+<img width="128" height="128" src="logo.png">
+</p>
+
+<br>
+
 # Neptune
 
-> This theme is in early development stage and is subject to change frequently. You can participate in its development by contributing to the theme or sharing feedback with me!
+Simple and beautiful dark theme for Visual Studio Code. **`Screenshots Coming Soon`**
+
+<br>
+
+> Note: This theme is in early development stage and is subject to change frequently. You can participate in its development by contributing to the theme or sharing feedback with me!
+
+## Changelog
 
 See the **[Changelog](https://github.com/pascalcodes/neptune-theme/blob/main/CHANGELOG.md)** for the latest changes made to the theme.
 
