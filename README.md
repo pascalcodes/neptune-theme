@@ -1,5 +1,5 @@
 <p align="center">
-<img width="128" height="128" src="logo.png">
+<img width="128" height="128" src="https://github.com/pascalcodes/neptune-theme/blob/main/logo.png?raw=true">
 </p>
 
 <br>
