@@ -57,7 +57,8 @@
     "dropdown.foreground": "#9BA0B8",
     "input.background": "#06060B",
     "panelTitle.activeForeground": "#9BA0B8",
-    "panel.border": "#06060B"
+    "panel.border": "#06060B",
+    "editorGroup.border": "#06060B"
   },
 
   // Syntax
@@ -96,7 +97,7 @@
       "name": "Keyword, Storage",
       "scope": ["keyword", "storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#9BA0B8"
+        "foreground": "#484C64"
       }
     },
     {
@@ -116,7 +117,7 @@
         "keyword.other.substitution"
       ],
       "settings": {
-        "foreground": "#484C64"
+        "foreground": "#9BA0B8"
       }
     },
     {
@@ -127,7 +128,7 @@
         "markup.deleted.git_gutter"
       ],
       "settings": {
-        "foreground": "#9095BA"
+        "foreground": "#9BA0B8"
       }
     },
     {
@@ -140,7 +141,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#82AAFF"
+        "foreground": "#83A8F1"
       }
     },
     {
@@ -170,7 +171,7 @@
         "keyword.other"
       ],
       "settings": {
-        "foreground": "#7AA7FF"
+        "foreground": "#83A8F1"
       }
     },
     {
@@ -185,7 +186,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#7AA7FF"
+        "foreground": "#83A8F1"
       }
     },
     {
@@ -201,7 +202,7 @@
         "support.type.sys-types"
       ],
       "settings": {
-        "foreground": "#7AA7FF"
+        "foreground": "#ff0000"
       }
     },
     {
@@ -266,7 +267,7 @@
       "name": "Attributes",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#9095BA"
+        "foreground": "#9BA0B8"
       }
     },
     {
@@ -284,7 +285,7 @@
       "name": "CSS Classes",
       "scope": ["entity.other.attribute-name.class"],
       "settings": {
-        "foreground": "#9BA0B8"
+        "foreground": "#83A8F1"
       }
     },
     {
