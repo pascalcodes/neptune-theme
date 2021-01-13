@@ -97,7 +97,7 @@
       "name": "Keyword, Storage",
       "scope": ["keyword", "storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#484C64"
+        "foreground": "#83A8F1"
       }
     },
     {
@@ -202,7 +202,7 @@
         "support.type.sys-types"
       ],
       "settings": {
-        "foreground": "#ff0000"
+        "foreground": "#83A8F1"
       }
     },
     {
