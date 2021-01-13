@@ -6,6 +6,10 @@
   "engines": {
     "vscode": "^1.52.0"
   },
+  "publisher": "Pascal",
+  "author": {
+    "name": "Pascal"
+  },
   "categories": [
     "Themes"
   ],
