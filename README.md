@@ -2,8 +2,6 @@
 <img width="128" height="128" src="https://github.com/pascalcodes/neptune-theme/blob/main/logo.png?raw=true">
 </p>
 
-<br>
-
 # Neptune
 
 Simple and beautiful dark theme for Visual Studio Code. **`Screenshots Coming Soon`**
