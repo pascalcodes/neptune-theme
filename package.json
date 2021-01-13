@@ -8,7 +8,8 @@
     "vscode": "^1.52.0"
   },
   "galleryBanner": {
-    "color": "#06060B"
+    "color": "#000000",
+    "theme": "dark"
   },
   "publisher": "pascalcodes",
   "author": {
