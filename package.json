@@ -10,6 +10,10 @@
   "author": {
     "name": "Pascal"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pascalcodes/neptune-theme"
+  },
   "categories": [
     "Themes"
   ],
