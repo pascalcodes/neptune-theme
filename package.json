@@ -7,6 +7,9 @@
   "engines": {
     "vscode": "^1.52.0"
   },
+  "galleryBanner": {
+    "color": "#fff"
+  },
   "publisher": "pascalcodes",
   "author": {
     "name": "Pascal"
