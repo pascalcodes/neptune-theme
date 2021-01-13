@@ -3,6 +3,7 @@
   "displayName": "Neptune",
   "description": "Theme for Visual Studio Code",
   "version": "0.0.1",
+  "icon": "logo.png",
   "engines": {
     "vscode": "^1.52.0"
   },
