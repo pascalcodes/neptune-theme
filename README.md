@@ -27,7 +27,7 @@ To report an issue or make a suggestion, please [open an issue.](https://github.
 
 ## Contributing
 
-To contribute to this theme, please read the [contribution instructions.](https://github.com/pascalcodes/neptune-theme/contributing.md)
+To contribute to this theme, please read the [contribution instructions.](https://github.com/pascalcodes/neptune-theme/blob/main/contributing.md)
 
 ## Author
 
