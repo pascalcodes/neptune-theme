@@ -3,28 +3,28 @@
   "type": "dark",
   "colors": {
     // Editor
-    "editor.background": "#08090F",
-    "editor.foreground": "#fff",
+    "editor.background": "#06070F",
+    "editor.foreground": "#DEE9FE",
     "editorLineNumber.activeForeground": "#9BA0B8",
     "editorLineNumber.foreground": "#484C64",
 
     // Activity Bar
     "activityBar.activeBackground": "#08090F",
     "activityBar.background": "#08090F",
-    "activityBar.foreground": "#9BA0B8",
+    "activityBar.foreground": "#DEE9FE",
     "activityBar.inactiveForeground": "#484C64",
 
     // Side Bar
-    "sideBarTitle.foreground": "#9BA0B8",
-    "sideBar.background": "#06060B",
-    "sideBar.foreground": "#484C64",
+    "sideBarTitle.foreground": "#DEE9FE",
+    "sideBar.background": "#030308",
+    "sideBar.foreground": "#6A6F8A",
     "sideBarSectionHeader.background": "#08090F",
-    "sideBarSectionHeader.foreground": "#9BA0B8",
+    "sideBarSectionHeader.foreground": "#6A6F8A",
     "list.inactiveSelectionBackground": "#08090F",
-    "list.activeSelectionForeground": "#9BA0B8",
-    "list.activeSelectionBackground": "#0f121e",
-    "list.hoverBackground": "#0f121e",
-    "list.hoverForeground": "#9BA0B8",
+    "list.activeSelectionForeground": "#DEE9FE",
+    "list.activeSelectionBackground": "#06070F",
+    "list.hoverBackground": "#06070F",
+    "list.hoverForeground": "#DEE9FE",
 
     // Title Bar
     "titleBar.activeBackground": "#06060B",
@@ -33,29 +33,29 @@
     "titleBar.inactiveForeground": "#484C64",
 
     // Status Bar
-    "statusBar.background": "#06060B",
-    "statusBar.foreground": "#9BA0B8",
+    "statusBar.background": "#030308",
+    "statusBar.foreground": "#6A6F8A",
 
     // Tabs Bar
-    "tab.activeBackground": "#08090F",
-    "tab.activeForeground": "#9BA0B8",
-    "tab.inactiveBackground": "#06060B",
+    "tab.activeBackground": "#06070F",
+    "tab.activeForeground": "#DEE9FE",
+    "tab.inactiveBackground": "#030308",
     "tab.inactiveForeground": "#484C64",
-    "editorGroupHeader.tabsBackground": "#06060B",
+    "editorGroupHeader.tabsBackground": "#030308",
     "tab.border": "#06060B",
 
     // Other
     "editor.selectionBackground": "#383B4E",
-    "focusBorder": "#383B4E",
+    "focusBorder": "#484C64",
     "editor.lineHighlightBorder": "#484C64",
-    "scrollbarSlider.activeBackground": "#10121d",
+    "scrollbarSlider.activeBackground": "#484C64",
     "scrollbarSlider.background": "#10121d",
     "scrollbarSlider.hoverBackground": "#10121d",
     "editorWhitespace.foreground": "#484C64",
     "terminal.foreground": "#9BA0B8",
     "dropdown.background": "#06060B",
     "dropdown.foreground": "#9BA0B8",
-    "input.background": "#06060B",
+    "input.background": "#030308",
     "panelTitle.activeForeground": "#9BA0B8",
     "panel.border": "#06060B",
     "editorGroup.border": "#06060B"
@@ -76,7 +76,7 @@
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#DEE9FE"
       }
     },
     {
@@ -117,7 +117,7 @@
         "keyword.other.substitution"
       ],
       "settings": {
-        "foreground": "#9BA0B8"
+        "foreground": "#83A8F1"
       }
     },
     {
@@ -128,7 +128,7 @@
         "markup.deleted.git_gutter"
       ],
       "settings": {
-        "foreground": "#9BA0B8"
+        "foreground": "#6A6F8A"
       }
     },
     {
@@ -209,7 +209,7 @@
       "name": "Entity Types",
       "scope": ["support.type"],
       "settings": {
-        "foreground": "#B2CCD6"
+        "foreground": "#00b7ff"
       }
     },
     {
@@ -223,7 +223,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#DEE9FE"
       }
     },
     {
@@ -278,21 +278,21 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#7AA7FF"
+        "foreground": "#0055ff"
       }
     },
     {
       "name": "CSS Classes",
       "scope": ["entity.other.attribute-name.class"],
       "settings": {
-        "foreground": "#83A8F1"
+        "foreground": "#6A6F8A"
       }
     },
     {
       "name": "CSS ID's",
       "scope": ["source.sass keyword.control"],
       "settings": {
-        "foreground": "#82AAFF"
+        "foreground": "#0051ff"
       }
     },
     {
@@ -446,7 +446,7 @@
         "punctuation.definition.list_item.markdown"
       ],
       "settings": {
-        "foreground": "#EEFFFF"
+        "foreground": "#DEE9FE"
       }
     },
     {
@@ -579,7 +579,7 @@
         "punctuation.section.class.end"
       ],
       "settings": {
-        "foreground": "#EEFFFF"
+        "foreground": "#DEE9FE"
       }
     },
     {
@@ -601,7 +601,7 @@
       "name": "Markup - Table",
       "scope": ["markup.table"],
       "settings": {
-        "foreground": "#EEFFFF"
+        "foreground": "#DEE9FE"
       }
     }
   ]
