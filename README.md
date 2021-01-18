@@ -2,6 +2,11 @@
 <img width="128" height="128" src="https://github.com/pascalcodes/neptune-theme/blob/main/logo.png?raw=true">
 </p>
 
+![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/pascalcodes.neptune-theme?color=83A8F1&style=for-the-badge)
+![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/pascalcodes.neptune-theme?color=83A8F1&style=for-the-badge)
+![Visual Studio Marketplace Last Updated](https://img.shields.io/visual-studio-marketplace/last-updated/pascalcodes.neptune-theme?color=83A8F1&logoColor=83A8F1&style=for-the-badge)
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/pascalcodes.neptune-theme?color=83A8F1&style=for-the-badge)
+
 # Neptune
 
 Simple and beautiful dark theme for Visual Studio Code. **`Screenshots Coming Soon`**

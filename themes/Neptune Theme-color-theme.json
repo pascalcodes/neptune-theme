@@ -9,8 +9,8 @@
     "editorLineNumber.foreground": "#484C64",
 
     // Activity Bar
-    "activityBar.activeBackground": "#08090F",
-    "activityBar.background": "#08090F",
+    "activityBar.activeBackground": "#06070F",
+    "activityBar.background": "#06070F",
     "activityBar.foreground": "#DEE9FE",
     "activityBar.inactiveForeground": "#484C64",
 
@@ -27,8 +27,8 @@
     "list.hoverForeground": "#DEE9FE",
 
     // Title Bar
-    "titleBar.activeBackground": "#06060B",
-    "titleBar.inactiveBackground": "#08090F",
+    "titleBar.activeBackground": "#030308",
+    "titleBar.inactiveBackground": "#030308",
     "titleBar.activeForeground": "#9BA0B8",
     "titleBar.inactiveForeground": "#484C64",
 
